@@ -1,15 +1,10 @@
 ### {less}
 
-Operating system: Cross-platform
-
-Target audience: Web developers and designers
-
-Website: lesscss.org
-
-Github url: https://github.com/less/less.js 
-
+Operating system: Cross-platform  
+Target audience: Web developers and designers  
+Website: lesscss.org  
+Github url: https://github.com/less/less.js  
 Overview/flowchart of how LESS works: http://www.gliffy.com/go/publish/4784259 
-
 
 LESS extends CSS with dynamic behavior such as variables, mixins, operations and functions. LESS can run on the client-side and server-side or can be compiled into plain CSS. LESS is a CSS preprocessor, which allows writing clean CSS in a programming construct instead of static rules.
 
@@ -49,11 +44,11 @@ When I first used LESS, I thought that the documentation could use some work. It
 
 ### Tarbell
 
-Operating system: Linux/Unix and Mac OSX
-Target audience: Journalists, web developers and designers, bloggers
-Website: http://tarbell.tribapps.com/
-Github url: http://github.com/newsapps/flask-tarbell
-Project docs: http://build-with-tarbell.readthedocs.org/en/latest/index.html# 
+Operating system: Linux/Unix and Mac OSX  
+Target audience: Journalists, web developers and designers, bloggers  
+Website: http://tarbell.tribapps.com/  
+Github url: http://github.com/newsapps/flask-tarbell  
+Project docs: http://build-with-tarbell.readthedocs.org/en/latest/index.html#  
 Technical presentation: http://tarbell.tribapps.com/build-with-tarbell/#/front 
 
 Tarbell was created by the Chicago Tribune News Applications team. The project was led in large part by my mentor, David Eads. Tarbell is named for Ida Tarbell, a famous female journalist.
@@ -74,9 +69,9 @@ Many Tribune staff have created beautiful projects with no prior coding experien
 
 ### AdBlock Pro
 
-Browser compatibility: Google Chrome, Safari, and Firefox
-Target audience: People who use the internet
-Source code: https://adblockplus.org/en/source
+Browser compatibility: Google Chrome, Safari, and Firefox  
+Target audience: People who use the internet  
+Source code: https://adblockplus.org/en/source  
 Overview/flowchart of AdBlock: https://adblockplus.org/en/images/how-adblock-plus-works.png
 
 Adblock Plus blocks annoying ads on the web. It can block other things, like tracking, as well. With more than 50 million users, it is the world's most popular browser extension. Adblock Plus is an open source project created by Wladimir Palant in 2006.
