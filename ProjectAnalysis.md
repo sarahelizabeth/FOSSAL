@@ -1,10 +1,15 @@
 ### {less}
 
 Operating system: Cross-platform
+
 Target audience: Web developers and designers
+
 Website: lesscss.org
+
 Github url: https://github.com/less/less.js 
+
 Overview/flowchart of how LESS works: http://www.gliffy.com/go/publish/4784259 
+
 
 LESS extends CSS with dynamic behavior such as variables, mixins, operations and functions. LESS can run on the client-side and server-side or can be compiled into plain CSS. LESS is a CSS preprocessor, which allows writing clean CSS in a programming construct instead of static rules.
 
@@ -40,6 +45,8 @@ What I was most impressed with was the overview flowchart the developers created
 
 When I first used LESS, I thought that the documentation could use some work. It took me several hours to entirely figure out the system for using it, and I didn’t fully understand the benefits of it over regular CSS. With their most recent updates, the instructions have improved dramatically. It much more clearly explains the benefits of using LESS over other CSS preprocessors.
 
+------------------------
+
 ### Tarbell
 
 Operating system: Linux/Unix and Mac OSX
@@ -62,6 +69,8 @@ A critique I have as far as the maintainability and readability of the code, I f
 A major drawback of Tarbell is its lack of a graphical user interface. However, many people prefer to use command line tools to a GUI. This limits Tarbell to fewer potential users, but users who do like using command line tools, such as myself, really like being able to use commands instead of buttons. In my Human Computer Interaction course this Spring, we learned that if a certain product appeals to a select group of users, it is better to invest time into those aspects and features which appeal to the core group instead of trying to do too many things and ending up with a mediocre product with lots of features instead of an excellent product with few well-rounded features. This is why I think Tarbell does not need a graphical interface.
 
 Many Tribune staff have created beautiful projects with no prior coding experience using Tarbell. They get valuable experience writing very basic code to create basic websites, but more experiences developers can really mould Tarbell to their own tastes and use its flexible base template to do great things.
+
+-------------------------------
 
 ### AdBlock Pro
 
